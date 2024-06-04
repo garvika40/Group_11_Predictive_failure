@@ -1,3 +1,56 @@
+# Predictive Maintenance
+
+Predictive maintenance represents a transformative approach to equipment maintenance, leveraging data and advanced analytics to anticipate and prevent equipment failures. Unlike traditional reactive maintenance, which addresses issues post-failure, or preventive maintenance, which operates on a fixed schedule, Predictive maintenance uses real-time data to predict issues before they disrupt operations.
+
+This project focuses on developing a predictive maintenance model that utilizes sensor data and machine learning algorithms to forecast equipment failures.
+
+Through this project, we aim to demonstrate the effectiveness of predictive maintenance in enhancing operational efficiency and reliability, ultimately leading to significant cost savings and improved productivity.
+
+# Data Description
+
+*UDI*:
+   - A unique identifier for each piece of equipment or device being monitored.
+
+*Product ID*: 
+   - A unique identifier for the specific product or batch being produced or maintained.
+
+*Type*:
+   - The type or category of equipment being monitored, which could indicate the model or function of the machinery.
+
+*Air temperature*: 
+   - The temperature of the air surrounding the equipment, measured in Kelvin (K).
+
+*Process temperature*: 
+   - The temperature within the equipment during the operation process, measured in Kelvin (K).
+
+*Rotational speed*:
+   - The speed at which a part of the equipment is rotating, measured in revolutions per minute (rpm).
+
+*Torque*:  
+   - The rotational force applied to the equipment, measured in Newton meters (Nm).
+
+*Tool wear*:
+   - The amount of time (in minutes) that the tool has been in use, indicating its wear level.
+
+*Target*: 
+   - A binary indicator showing whether a failure has occurred (1) or not (0).
+
+*Failure Type*: 
+- A categorical variable describing the type of failure that occurred, if any. This could include various failure modes such as mechanical failure, electrical failure, etc.
+
+
+## Steps for Predictive Maintenance Project
+
+### 1. Data Collection and Preprocessing
+
+### 2. Data Visualization
+
+### 3. Machine Learning Model
+
+### 4. Use Flask for Backend
+
+### 5. Deployment
+
 ## Steps for Predictive Maintenance Project
 
 #### Data Collection and Preprocessing

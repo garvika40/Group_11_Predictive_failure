@@ -122,7 +122,10 @@ Containerization with Docker allows us to package our predictive maintenance app
 
 6. *Access the Application*: 
    - Once the Docker container is running on your EC2 instance, access Flask application through the public IP address or domain name of the instance.
-     
-![image](https://github.com/garvika40/Group_11_Predictive_maintenance/assets/157689132/f10676a0-6ff9-482d-bf00-5a0cadbb4643)
-![image](https://github.com/garvika40/Group_11_Predictive_maintenance/assets/157689132/f10676a0-6ff9-482d-bf00-5a0cadbb4643)
+
+![image](https://github.com/garvika40/Group_11_Predictive_maintenance/assets/157689132/da109d53-b22d-4f96-966c-1eaab652c3ae)
+![image](https://github.com/garvika40/Group_11_Predictive_maintenance/assets/157689132/01c059c3-8700-4b8f-89ff-3efb57d4594d)
+
+
+
 
